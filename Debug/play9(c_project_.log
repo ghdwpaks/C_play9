@@ -1,5 +1,2 @@
-﻿  main1.c
-C:\Users\hjm79\source\repos\play9(c_project_\play9(c_project_\main1.c(14,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
-C:\Users\hjm79\source\repos\play9(c_project_\play9(c_project_\main1.c(15,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int **'입니다.
-C:\Users\hjm79\source\repos\play9(c_project_\play9(c_project_\main1.c(16,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+﻿  main2.c
   play9(c_project_.vcxproj -> C:\Users\hjm79\source\repos\play9(c_project_\Debug\play9(c_project_.exe
